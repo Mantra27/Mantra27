@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Electron js**
 
-- 👨‍💻 Check-out my portfolio at <a href="https://instagram.com/27mantra" target="blank"><img align="center" src="https://img.shields.io/static/v1?&label=&message=mantra.codes/&color=36393f&" alt="27mantra"/></a>
+- 👨‍💻 Check-out my portfolio at <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/static/v1?&label=&message=mantra.codes/&color=36393f&" alt="27mantra"/></a>
 <p>
 
 - 💬 Ask me about **express js, socket.io, puppeteer, discord.js**
