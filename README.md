@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mantra Aka suRge</h1>
 <h3 align="center">Backend dev based in India</h3>
 
-<p align="left"> <img src="h" alt="mantra27" /> </p>
 
 <a href="https://discord.gg/mG94DqX"><p><img align="center" src="https://discord.c99.nl/widget/theme-3/610432757113421834.png" alt="thatonecalculator"/></a>
 <p>
