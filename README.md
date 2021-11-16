@@ -26,13 +26,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="27mantra"/></a>
-  <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="27mantra"/></a>
-  <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="27mantra"/></a>
-  <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="27mantra"/></a>
-  <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="27mantra"/></a>
-  <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="27mantra"/></a>
-  <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="27mantra"/></a>
+  <a href="https://nodejs.org/en/" target="blank"><img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js"/></a>
+  <a href="https://www.npmjs.com/" target="blank"><img align="center" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/></a>
+  <a href="https://www.google.com/search?q=javascript" target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/></a>
+  <a href="https://www.google.com/search?q=html5" target="blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
+  <a href="https://www.google.com/search?q=css3" target="blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a>
+  <a href="https://www.google.com/search?q=c%2B%2B" target="blank"><img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp"/></a>
+  <a href="https://www.google.com/search?q=json" target="blank"><img align="center" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json"/></a>
   </a>
 
   <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="27mantra"/></a>
