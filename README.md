@@ -25,9 +25,11 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank">  </a> 
-<a href="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" target="_blank">  </a> </p>
-
+<p align="left"> 
+  <a src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
+  </a>
+  </p>
+    
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mantra27&show_icons=true&locale=en&layout=compact" alt="mantra27" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mantra27&show_icons=true&locale=en" alt="mantra27" /></p>
