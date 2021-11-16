@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **express js, socket.io, puppeteer, discord.js**
 
-- 📫 How to reach me <a href="mailto:gohilmantra@gmail.com" target="blank"><img src="https://shields.io/badge/send_me-email-d44a3c?logo=gmail&style=for-the-badge" alt="gohilmantra@gmail.com"/></a> 
+- 📫 How to reach me <a href="mailto:gohilmantra@gmail.com" target="blank"><img src="https://shields.io/badge/send_me-email-d44a3c?logo=gmail&style=for-the-badge" size=10% alt="gohilmantra@gmail.com"/></a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
