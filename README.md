@@ -27,9 +27,25 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="27mantra"/></a>
+  <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="27mantra"/></a>
+  <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="27mantra"/></a>
+  <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="27mantra"/></a>
+  
+  <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="27mantra"/></a>
+  <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="27mantra"/></a>
+  <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="27mantra"/></a>
+  <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="27mantra"/></a>
+  <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="27mantra"/></a>
   </a>
   </p>
-    
+  
+    <h3 align="left">Non tech Things I Do:</h3>
+    <p align="left"> 
+  <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" alt="27mantra"/></a>
+    </p>
+    <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white" alt="27mantra"/></a>
+    </p>
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mantra27&show_icons=true&locale=en&layout=compact" alt="mantra27" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mantra27&show_icons=true&locale=en" alt="mantra27" /></p>
