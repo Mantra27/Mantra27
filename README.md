@@ -39,8 +39,8 @@
   </a>
   </p>
   
-    <h3 align="left">Non tech Things I Do:</h3>
-    <p align="left"> 
+   <h3 align="left">Non tech Things I Do:</h3>
+   <p align="left"> 
   <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" alt="27mantra"/></a>
     </p>
     <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white" alt="27mantra"/></a>
