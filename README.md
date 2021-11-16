@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Electron js**
+- 🌱 I’m currently learning <a href="https://www.electronjs.org/" target="blank"><img align="center" src="https://img.shields.io/static/v1?&label=&message=electronjs.org/&color=36393f&" alt="electron"/></a>
 
 - 👨‍💻 Check-out my portfolio at <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/static/v1?&label=&message=mantra.codes/&color=36393f&" alt="27mantra"/></a>
 <p>
