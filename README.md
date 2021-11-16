@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mantra Aka suRge</h1>
-<h3 align="center">backend dev based in India. :D</h3>
+<h3 align="center">Backend dev based in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mantra27&label=Profile%20views&color=0e75b6&style=flat" alt="mantra27" /> </p>
 
