@@ -44,7 +44,7 @@
    <p align="left"> 
   <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" alt="27mantra"/></a>
  
-    <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white" alt="27mantra"/></a>
+  <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white" alt="27mantra"/></a>
     </p>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mantra27&show_icons=true&locale=en&layout=compact" alt="mantra27" /></p>
