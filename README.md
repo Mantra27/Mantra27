@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/27mantra" target="blank"><img align="center" src="https://img.shields.io/static/v1?logo=instagram&label=&message=Mantra.js&color=36393f&style=for-the-badge" alt="27mantra" height="30" width="40" /></a>
+<a href="https://instagram.com/27mantra" target="blank"><img align="center" src="https://img.shields.io/static/v1?logo=instagram&label=&message=Mantra.js&color=36393f&style=for-the-badge" alt="27mantra"/></a>
 
 </p>
 
