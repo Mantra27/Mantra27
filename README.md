@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mantra Aka suRge</h1>
 <h3 align="center">Backend dev based in India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mantra27&label=Profile%20views&color=0e75b6&style=flat" alt="mantra27" /> </p>
+<p align="left"> <img src="h" alt="mantra27" /> </p>
 
 <a href="https://discord.gg/mG94DqX"><p><img align="center" src="https://discord.c99.nl/widget/theme-3/610432757113421834.png" alt="thatonecalculator"/></a>
 <p>
@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/27mantra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="27mantra" height="30" width="40" /></a>
-<a href="https://discord.gg/NBwSdcYa22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mantra#1539" height="30" width="40" /></a> or Mantra#1539
+<a href="https://instagram.com/27mantra" target="blank"><img align="center" src="https://img.shields.io/static/v1?logo=instagram&label=&message=Mantra.js&color=36393f&style=for-the-badge" alt="27mantra" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
