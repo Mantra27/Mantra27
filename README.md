@@ -40,11 +40,7 @@
   </a>
   <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="27mantra"/></a>
   </a>
-  <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="27mantra"/></a>
-  </a>
   <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="27mantra"/></a>
-  </a>
-  <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="27mantra"/></a>
   </a>
   </p>
   
