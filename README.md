@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
+  <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="27mantra"/></a>
   </a>
   </p>
     
