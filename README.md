@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mantra27&label=Profile%20views&color=0e75b6&style=flat" alt="mantra27" /> </p>
 
 <a href="https://discord.gg/mG94DqX"><p><img align="center" src="https://discord.c99.nl/widget/theme-3/610432757113421834.png" alt="thatonecalculator"/></a>
-<a href="mailto:gohilmantra@gmail.com" target="blank"><img src="https://shields.io/badge/send_me-email-d44a3c?logo=gmail&style=for-the-badge" alt="gohilmantra@gmail.com"/></a> 
+
 
 
 - 🌱 I’m currently learning **Electron js**
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **express js, socket.io, puppeteer, discord.js**
 
-- 📫 How to reach me **gohilmantra@gmail.com**
+- 📫 How to reach me <a href="mailto:gohilmantra@gmail.com" target="blank"><img src="https://shields.io/badge/send_me-email-d44a3c?logo=gmail&style=for-the-badge" alt="gohilmantra@gmail.com"/></a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
