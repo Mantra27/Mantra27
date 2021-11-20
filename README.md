@@ -1,3 +1,4 @@
+<center>
 <h1 align="center">Hi 👋, I'm Mantra Aka suRge</h1>
 <h3 align="center">Backend dev based in India</h3>
 
