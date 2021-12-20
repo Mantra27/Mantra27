@@ -9,8 +9,7 @@
 
 - 🌱 I’m currently learning Solidity.
 
-- 👨‍💻 Check-out my portfolio at <a href="https://mantra.codes/" target="blank"><img align="center" src="https://img.shields.io/static/v1?&label=&message=mantra.codes/&color=36393f&logo=about.me" alt="27mantra"/></a>
-<p>
+- 👨‍💻 Check-out my portfolio at https://mantra.codes
 
 - 💬 Ask me about **express js, socket.io, puppeteer, discord.js**
 
