@@ -51,6 +51,6 @@
   <a href="https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.coinbase.com/price/ethereum&ved=2ahUKEwjVzfjR4Jz0AhVMX30KHXmLCksQFnoECAoQAg&usg=AOvVaw3-dPt9UuH4UfHDf3JcF7hJ" target="blank"><img align="center" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="eth"/></a>
     </p>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mantra27&show_icons=true&locale=en&layout=compact" alt="mantra27" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mantra27&show_icons=true&locale=en&layout=compact" alt="mantra27" width="70%" height="70%"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mantra27&show_icons=true&locale=en" alt="mantra27" width="50%" height="50%"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mantra27&show_icons=true&locale=en" alt="mantra27" width="35%" height="35%"/></p>
