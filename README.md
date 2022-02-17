@@ -2,18 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mantra Aka suRge</h1>
 <h3 align="center">Backend dev based in India</h3>
 
-
-<a href="https://discord.gg/NBwSdcYa22"><p><img align="center" src="https://discord.c99.nl/widget/theme-2/610432757113421834.png"/></a>
-
-
-
-- 🌱 I’m currently learning DSA in C/C++
-
-- 👨‍💻 Check-out my portfolio at https://mantra.codes
-
-- 💬 Ask me about **express js, socket.io, puppeteer, discord.js**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <p>
