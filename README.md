@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning Solidity.
+- 🌱 I’m currently learning DSA in C/C++
 
 - 👨‍💻 Check-out my portfolio at https://mantra.codes
 
