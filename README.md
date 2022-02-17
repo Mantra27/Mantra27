@@ -5,7 +5,7 @@
 
 <a href="https://discord.gg/NBwSdcYa22"><p><img align="center" src="https://discord.c99.nl/widget/theme-2/610432757113421834.png" alt="thatonecalculator"/></a>
 
-<iframe src="https://mantra.codes" width="100%" height="100%" scrolling="auto"></iframe>
+
 
 - 🌱 I’m currently learning Solidity.
 
