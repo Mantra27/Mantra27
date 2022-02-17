@@ -2,6 +2,18 @@
 <h1 align="center">Hi 👋, I'm Mantra Aka suRge</h1>
 <h3 align="center">Backend dev based in India</h3>
 
+
+<a href="https://discord.gg/NBwSdcYa22"><p><img align="center" src="https://discord.c99.nl/widget/theme-2/610432757113421834.png"/></a>
+
+
+
+- 🌱 I’m currently learning DSA in C/C++
+
+- 👨‍💻 Check-out my portfolio at https://mantra.codes
+
+- 💬 Ask me about **express js, socket.io, puppeteer, discord.js**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <p>
@@ -39,4 +51,6 @@
   <a href="https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.coinbase.com/price/ethereum&ved=2ahUKEwjVzfjR4Jz0AhVMX30KHXmLCksQFnoECAoQAg&usg=AOvVaw3-dPt9UuH4UfHDf3JcF7hJ" target="blank"><img align="center" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="eth"/></a>
     </p>
   
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mantra27&show_icons=true&locale=en&layout=compact" alt="mantra27" width="40%" height="40%"/></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mantra27&show_icons=true&locale=en" alt="mantra27" width="45%" height="45%"/></p>
