@@ -20,7 +20,7 @@
   <a href="mailto:gohilmantra@gmail.com" target="blank"><img src="https://shields.io/badge/send_me-email-d44a3c?logo=gmail&style=for-the-badge" size=10% alt="gohilmantra@gmail.com"/></a>
   </p>
   
-<a href="https://instagram.com/mantra.27" target="blank"><img align="center" src="https://img.shields.io/static/v1?logo=instagram&label=&message=Mantra&color=36393f&style=for-the-badge" alt="mantra.js"/></a>
+<a href="https://instagram.com/man77ra" target="blank"><img align="center" src="https://img.shields.io/static/v1?logo=instagram&label=&message=Mantra&color=36393f&style=for-the-badge" alt="mantra.js"/></a>
 </p>
 
 
