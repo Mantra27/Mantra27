@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mantra Aka suRge</h1>
-<h3 align="center">Backend dev based in India</h3>
+<h3 align="center">Backend developer based in India</h3>
 
 
 <a href="https://discord.gg/NBwSdcYa22"><p><img align="center" src="https://discord.c99.nl/widget/theme-2/610432757113421834.png"/></a>
