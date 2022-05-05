@@ -48,7 +48,6 @@
    <h3 align="left">Non-Technical Things I Do:</h3>
    <p align="left"> 
   <a href="https://blog.counter-strike.net/" target="blank"><img align="center" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" alt="csgo"/></a>
-  <a href="https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.coinbase.com/price/ethereum&ved=2ahUKEwjVzfjR4Jz0AhVMX30KHXmLCksQFnoECAoQAg&usg=AOvVaw3-dPt9UuH4UfHDf3JcF7hJ" target="blank"><img align="center" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="eth"/></a>
     </p>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mantra27&show_icons=true&locale=en&layout=compact" alt="mantra27" width="40%" height="40%"/></p>
