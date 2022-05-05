@@ -11,7 +11,7 @@
 
 - 👨‍💻 Check-out my portfolio at https://mantra.codes
 
-- 💬 Ask me about **express js, socket.io, puppeteer, discord.js**
+- 💬 Ask me about **express js, socket.io, puppeteer, discord.js, electron**
 
 
 <h3 align="left">Connect with me:</h3>
