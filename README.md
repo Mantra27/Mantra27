@@ -42,6 +42,14 @@
   <a href="https://www.apple.com/in/macos/monterey/" target="blank"><img align="center" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macos"/></a>
   <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/></a>
   
+  <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="vscode"/></a>
+  
+   <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" alt="vscode"/></a>
+   <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="vscode"/></a>
+   <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="vscode"/></a>
+   <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="vscode"/></a>
+  
+  
   </a>
   </p>
   
