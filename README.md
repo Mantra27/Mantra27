@@ -51,11 +51,12 @@
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="vscode"/></a>
  <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="vscode"/></a>
  <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" alt="vscode"/></a>
-  <br>
+
+
  <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="chartjs"/></a>
   <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
   <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash"/></a>
-  <br>
+ 
   <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="threejs"/></a>
   
 <h3 align="left">Tools</h3>
@@ -63,15 +64,17 @@
   <a href="https://www.npmjs.com/" target="blank"><img align="center" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/></a>
   <a href="https://www.npmjs.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn"/></a>
   <a href="https://www.postman.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/></a>
-  <br>
+
   <a href="https://www.postman.com/" target="blank"><img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/></a>
    <a href="https://www.postman.com/" target="blank"><img align="center" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis"/></a>
   <a href="https://git-scm.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
-  <br>
+
+
   <a href="https://replit.com/" target="blank"><img align="center" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit"/>
   </a>
   <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/></a>
-  <br>
+
+
   <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/></a>
   <img align="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Web Services"/></a>
     
