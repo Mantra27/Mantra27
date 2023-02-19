@@ -24,7 +24,7 @@
 <a href="https://instagram.com/man77ra" target="blank"><img align="center" src="https://img.shields.io/static/v1?logo=instagram&label=&message=Man77ra&color=36393f&style=for-the-badge" alt="mantra.js"/></a></p>
 
 
-<h3 align="left">Languages And Frameworks/ Libraries</h3>
+<h3 align="left">Languages And Frameworks/Libraries</h3>
 <p align="left"> 
 
   <a href="https://nodejs.org/en/" target="blank"><img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js"/></a> <a href="https://www.google.com/search?q=javascript" target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/></a>
@@ -58,6 +58,7 @@
   <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash"/></a>
  
   <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="threejs"/></a>
+  <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/></a>
   
 <h3 align="left">Tools</h3>
 
