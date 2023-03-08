@@ -93,6 +93,6 @@
    <h3 align="left">Non-Technical Things I Do:</h3>
    <p align="left"> 
 
-  <a href="https://blog.counter-strike.net/" target="blank">Ex MGE btw, <img align="center" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" alt="csgo"/></a>
+  Ex MGE btw, <br><a href="https://blog.counter-strike.net/" target="blank"><img align="center" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" alt="csgo"/></a>
     </p>
 
