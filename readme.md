@@ -4,7 +4,7 @@
 
 
 <a href="https://discord.gg/NBwSdcYa22"><p><img align="center" src="https://discord.c99.nl/widget/theme-2/610432757113421834.png"/></a>
-<a href="https://discord.gg/NBwSdcYa22"><p><img align="center" src="https://www.powr.io/music-player/u/4f815108_1681374699#platform=iframe"/></a>
+
 
 
 
