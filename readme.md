@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:gohilmantra@gmail.com" target="blank">
-    <img src="https://shields.io/badge/send_me-email-d44a3c?logo=gmail&style=for-the-badge" alt="Email" />
+    <img src="https://shields.io/badge/send_me-email-d44a3c?logo=gmail&style=for-the-badge" alt="gohilmantra@gmail.com" />
   </a>
   <a href="https://www.linkedin.com/in/mantra-gohil-93105221a/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
