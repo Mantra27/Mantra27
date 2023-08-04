@@ -40,6 +40,15 @@
   <a href="https://code.visualstudio.com/" target="blank">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   </a>
+  <a target="blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTLM5" />
+  </a>
+  <a target="blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
+  <a target="blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="CPP" />
+  </a>
   <a href="https://www.json.org/json-en.html" target="blank">
     <img src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
   </a>
@@ -52,7 +61,6 @@
   <a href="https://soliditylang.org/" target="blank">
     <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="Solidity" />
   </a>
-  <!-- Add more languages and frameworks/libraries badges here -->
 </p>
 
 <h3 align="left">Tools</h3>
