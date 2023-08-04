@@ -137,9 +137,6 @@
   <a href="" target="blank">
     <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />
   </a>
-  <a href="" target="blank">
-    <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />
-  </a>
  
   <!-- Add more tools badges here -->
 </p>
