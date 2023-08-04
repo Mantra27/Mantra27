@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-  Check out my portfolio at <a href="https://notthefrontendguy.co">notthefrontendguy.co</a>
 </p>
 
 <p align="center">Ask me about <strong>Linux and Networking</strong></p>
