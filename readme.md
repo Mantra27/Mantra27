@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mantra</h1>
+3<h1 align="center">Hi, I'm Mantra</h1>
 <h3 align="center">A backend developer based in India</h3>
 
 <p align="center">
@@ -40,6 +40,9 @@
   <a href="https://code.visualstudio.com/" target="blank">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   </a>
+  <a href="" target="blank">
+    <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="Rust" />
+  </a>
   <a target="blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTLM5" />
   </a>
@@ -48,6 +51,9 @@
   </a>
   <a target="blank">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="CPP" />
+  </a>
+  <a target="blank">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   </a>
   <a href="https://www.json.org/json-en.html" target="blank">
     <img src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
@@ -58,8 +64,38 @@
   <a href="https://www.python.org/" target="blank">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
   </a>
+  <a href="https://expressjs.com/" target="blank">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  </a>
+  <a href="https://www.electronjs.org/" target="blank">
+    <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron" />
+  </a>
   <a href="https://soliditylang.org/" target="blank">
     <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="Solidity" />
+  </a>
+  <a href="https://svelte.dev/" target="blank">
+    <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte" />
+  </a>
+  <a href="https://reactjs.org/" target="blank">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://reactjs.org/" target="blank">
+    <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" alt="Socket" />
+  </a>
+   <a href="https://jquery.com/" target="blank">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  </a>
+  <a href="https://www.fastify.io/" target="blank">
+    <img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
+  </a>
+  <a href="https://www.chartjs.org/" target="blank">
+    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+  </a>
+  <a href="https://threejs.org/" target="blank">
+    <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+  </a>
+  <a href="" target="blank">
+    <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint" />
   </a>
 </p>
 
@@ -89,33 +125,22 @@
   <a href="https://www.gnu.org/software/bash/" target="blank">
     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   </a>
-  <a href="https://threejs.org/" target="blank">
-    <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  </a>
-  <a href="https://reactjs.org/" target="blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  </a>
-  <a href="https://expressjs.com/" target="blank">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  </a>
-  <a href="https://www.electronjs.org/" target="blank">
-    <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron" />
-  </a>
   <a href="https://deno.land/" target="blank">
     <img src="https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=464647" alt="Deno" />
   </a>
-  <a href="https://svelte.dev/" target="blank">
-    <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte" />
+  <a href="" target="blank">
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
   </a>
-  <a href="https://jquery.com/" target="blank">
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <a href="" target="blank">
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
   </a>
-  <a href="https://www.fastify.io/" target="blank">
-    <img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
+  <a href="" target="blank">
+    <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />
   </a>
-  <a href="https://www.chartjs.org/" target="blank">
-    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+  <a href="" target="blank">
+    <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />
   </a>
+ 
   <!-- Add more tools badges here -->
 </p>
 
