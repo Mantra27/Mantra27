@@ -4,8 +4,7 @@
 <p align="center">
   <a href="https://discord.gg/NBwSdcYa22">
     <img align="center" src="https://discord.c99.nl/widget/theme-2/610432757113421834.png" alt="Discord" />
-<img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=mantra27&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
+  <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mantra27&theme=react&border=61dafb&hide_border=true"/>
 </p>
 
 <p align="center">
