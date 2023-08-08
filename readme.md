@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://discord.gg/NBwSdcYa22">
     <img align="center" src="https://discord.c99.nl/widget/theme-2/610432757113421834.png" alt="Discord" />
-    [![GitHub Streak](https://streak-stats.demolab.com?user=mantra27)](https://git.io/streak-stats)
+    <img align="center" src="https://streak-stats.demolab.com?user=mantra27)](https://git.io/streak-stats" alt="streak-stat" />
   </a>
 </p>
 
