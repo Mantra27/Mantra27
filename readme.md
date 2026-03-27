@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mantra</h1>
-<h3 align="center">not really interested in my degree</h3>
+<h3 align="center"></h3>
 
 <p align="center">
   <a>
